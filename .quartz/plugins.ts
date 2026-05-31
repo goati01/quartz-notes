@@ -1,1 +1,1 @@
-export const plugins = {}
+export const CustomOgImagesEmitterName = 'CustomOgImagesEmitter';
