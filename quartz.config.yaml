@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: ABI論文閱讀心得
+  pageTitle: 只是日誌
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
