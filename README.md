@@ -1,4 +1,4 @@
-# APCS Practice [ＧＯ](https://github.com/goati01/quartz-notes)
+# APCS Practice  [ＧＯ](https://goati01.github.io/quartz-notes/)
 
 # Use Quartz v5
 
