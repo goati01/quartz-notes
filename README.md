@@ -1,4 +1,5 @@
-# APCS Practice
+# APCS Practice [ＧＯ](https://github.com/goati01/quartz-notes)
+
 # Use Quartz v5
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
